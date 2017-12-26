@@ -10,28 +10,28 @@ The robot consists of:
 		2 DC motors
 		Embedded Platforms (Boards)
 
-Edison
+Edison:
 		Movement Control
-Upboard
+Upboard:
 		Brain
 		
-Peripheral
+Peripheral:
 		Screen
 		Camera
 		Speakers
 		Microphone
 		
-Broker
+Broker:
     Mosquitto
 		
-CloudServices
+CloudServices:
 		Google Cloud Platform
 		Google Now
 		Vision API
 		Translate API
 		Calendar API
 		
-Amazon Web Services
+Amazon Web Services:
 		Alexa Voice Service
 		Alexa Skills Kit
 		AWS Lambda
